@@ -11,4 +11,3 @@ spec:
       nodePort: 30008
   selector:
     app: web
-#test
